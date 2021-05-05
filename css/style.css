@@ -538,7 +538,6 @@ font-family: "Montserrat", Georgia, serif;}
 .fancy-collapse-panel .panel-default > .panel-heading {
   padding: 0; }
 
-<!-----projectcss------------>
 #projects {
   padding: 50px 15px;
   border-bottom: 1px solid #dcd9d9;
@@ -789,7 +788,7 @@ font-family: "Montserrat", Georgia, serif;}
   .services.color-3 {
     border-bottom: 2px solid #6f2232; }
     .services.color-3 .icon2 i {
-      color: ##6f2232; }
+      color: #6f2232; }
   .services.color-4 {
     border-bottom: 2px solid #a84cb8; }
     .services.color-4 .icon2 i {
