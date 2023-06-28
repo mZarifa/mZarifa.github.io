@@ -13,7 +13,7 @@ function currentslide3(n3) {
 
 function showslides3(n3) {
   var i3;
-  var slides3 = document.getElementsByClassName("myslides3");
+  var slides3 = document.getElementsByClassName("mySlides3");
   var dots3 = document.getElementsByClassName("dot3");
   if (n3 > slides3.length) {slideIndex3 = 1}
   if (n3 < 1) {slideIndex3 = slides3.length}
